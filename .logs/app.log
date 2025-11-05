@@ -1,0 +1,4 @@
+2025-11-04 21:34:34 | INFO | fintrack.test | info de inicialização
+2025-11-04 21:34:34 | WARNING | fintrack.test | aviso teste
+2025-11-04 21:34:34 | ERROR | fintrack.test | erro simulado
+2025-11-04 22:03:02 | INFO | fintrack.API | API inicializada e banco configurado.
